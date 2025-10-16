@@ -1,1 +1,5 @@
 hello this is first file with some content.....
+1>>>the git files are first saved in working directory 
+2>>> then the files are moved to staging area using ------   git add file_name
+3>>> after the staging area it moved to local repository using commit --------   git commit -m "commit message"
+
