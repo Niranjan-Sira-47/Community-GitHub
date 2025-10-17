@@ -1,0 +1,15 @@
+git-hub is a platform where we can contribute the project
+here we can add our local repo in public it shows to all public
+using https and ssh key we can connect to our git-hub profile 
+using https
+
+
+>>>>>>>>>>>TO add or connect with our git hub profile
+>>>>>>>>>>>git remote add origin https_address
+
+............TO push your file in git-hub
+>>>>>>>>>>>>git push origin main
+
+
+.............To clone the project in your local
+>>>>>>>>>>>git clone git-https_address
