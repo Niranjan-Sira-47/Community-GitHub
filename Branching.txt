@@ -1,0 +1,12 @@
+>>>>>>>>>>>>>>>>>>>>>> BRANCHING IN GIT   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+it is a separate BRANCHING for experiment or new line of code
+
+............... to show all branch in git 
+>>>>>>>>>>>>> git branch
+
+
+...............to create a new branch in git
+>>>>>>>>>>>>>>>>>> git checkout -b feature1
+>>>>>>>>>>>>>>>> git switch -b feature1
+
+
