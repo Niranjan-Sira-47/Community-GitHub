@@ -1,0 +1,24 @@
+>>>>>>>>>>>   TAGGING    <<<<<<<<<<<<<<<<<<<<<
+In TAGGING we can add the version or the released in git
+collection of commit makes a released or a tag 
+
+IT is of 2 types
+1)Annotated tag
+2)light-weight tag
+
+>>>>Annotated tag
+>>>>git tag -a v1.0 -m "this is my first released or version"
+
+........ TO push your tag in git
+>>>>>>>>git push origin v1.0
+
+..........TO show all the tag
+>>>>>>>>>>git tag
+
+.......... to show description or all the commits about the tag
+>>>>>>>>>>>>git show v1.0
+
+
+..............to push your version
+>>>>>>>>>>>>>>git tag -a v1.1 -m "this is my second released"
+>>>>>>>>>>>>> git push origin v1.1
